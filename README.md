@@ -1,3 +1,6 @@
+# ISSUE FOUND
+I have found an issue why its crashing and i will resolve it soon!
+
 # NYA-Ransomware-3
 Nya Ransomware Easly Made!
 
