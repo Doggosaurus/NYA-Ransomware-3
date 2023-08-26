@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\NyaRansomware\NyaRansomware\bin\Debug\NyaRansomware.exe.config
+C:\Users\User\source\repos\NyaRansomware\NyaRansomware\bin\Debug\NyaRansomware.exe
+C:\Users\User\source\repos\NyaRansomware\NyaRansomware\bin\Debug\NyaRansomware.pdb
+C:\Users\User\source\repos\NyaRansomware\NyaRansomware\obj\Debug\NyaRansomware.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\NyaRansomware\NyaRansomware\obj\Debug\NyaRansomware.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\NyaRansomware\NyaRansomware\obj\Debug\NyaRansomware.Properties.Resources.resources
+C:\Users\User\source\repos\NyaRansomware\NyaRansomware\obj\Debug\NyaRansomware.csproj.GenerateResource.cache
+C:\Users\User\source\repos\NyaRansomware\NyaRansomware\obj\Debug\NyaRansomware.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\NyaRansomware\NyaRansomware\obj\Debug\NyaRansomware.exe
+C:\Users\User\source\repos\NyaRansomware\NyaRansomware\obj\Debug\NyaRansomware.pdb
+C:\Users\User\source\repos\NyaRansomware\NyaRansomware\obj\Debug\NyaRansomware.Form1.resources
+C:\Users\User\source\repos\NyaRansomware\NyaRansomware\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\source\repos\NyaRansomware\NyaRansomware\bin\Debug\Newtonsoft.Json.xml
+C:\Users\User\source\repos\NyaRansomware\NyaRansomware\obj\Debug\NyaRansomware.csproj.CopyComplete
