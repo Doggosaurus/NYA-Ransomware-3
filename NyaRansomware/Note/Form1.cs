@@ -138,5 +138,20 @@ namespace NyaRansomware
         {
 
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            Clipboard.SetText(Email.Text);
+        }
+
+        private void button2_Click_1(object sender, EventArgs e)
+        {
+            Clipboard.SetText(ID.Text);
+        }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            Clipboard.SetText(LTC.Text);
+        }
     }
 }
